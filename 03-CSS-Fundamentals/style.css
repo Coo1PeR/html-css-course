@@ -1,6 +1,13 @@
-h1, h2, h3, h4, p, li {
-    font-family: sans-serif;
+* {
+    /*border-top: #51cf66 solid 3px;*/
+}
+
+body {
     color: #444;
+    font-family: sans-serif;
+
+    border-top: #1098ad solid 3px;
+
 }
 
 h1, h2, h3 {
@@ -137,3 +144,13 @@ a:active {
 /*footer p {*/
 /*    color: green !important;*/
 /*}*/
+
+/*/////////////////////////////////////*/
+
+/*nav a:link, nav p {*/
+/*    font-size: 18px;*/
+/*}*/
+
+nav {
+    font-size: 18px;
+}
