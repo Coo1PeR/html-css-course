@@ -31,11 +31,12 @@ article {
     padding: 7px 15px;
 }
 
-.variant {
+.color {
+    background-color: #000;
+    height: 22px;
+    width: 22px;
     display: inline-block;
-    padding: 10px;
-    margin: 0 10px;
-    background: #000;
+    margin-right: 10px;
 }
 
 .header {
@@ -80,6 +81,7 @@ article {
 .details {
     text-transform: uppercase;
     margin: 30px 0 14px;
+    font-weight: 800;
 }
 
 ul {
@@ -106,4 +108,24 @@ button {
         background: white;
         color: black;
     }
+}
+
+.color-blue {
+    background-color: #2f6ee2;
+}
+
+.color-red {
+    background-color: #ec2f2f;
+}
+
+.color-yellow {
+    background-color: #f0bf1e;
+}
+
+.color-green {
+    background-color: #90cc20;
+}
+
+.color-brown {
+    background-color: #885214;
 }
