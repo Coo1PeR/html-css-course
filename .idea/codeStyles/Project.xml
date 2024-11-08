@@ -3,9 +3,8 @@
     <option name="FORMATTER_TAGS_ENABLED" value="false" />
     <HTMLCodeStyleSettings>
       <option name="HTML_UNIFORM_INDENT" value="true" />
-      <option name="HTML_KEEP_BLANK_LINES" value="4" />
       <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body,p,form,h1,h2,h3" />
-      <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="thead,tbody,tfoot" />
+      <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="" />
     </HTMLCodeStyleSettings>
     <editorconfig>
       <option name="ENABLED" value="false" />
@@ -20,9 +19,10 @@
       <option name="SOFT_MARGINS" value="80" />
       <indentOptions>
         <option name="INDENT_SIZE" value="2" />
-        <option name="CONTINUATION_INDENT_SIZE" value="4" />
+        <option name="CONTINUATION_INDENT_SIZE" value="2" />
         <option name="TAB_SIZE" value="2" />
         <option name="USE_TAB_CHARACTER" value="true" />
+        <option name="SMART_TABS" value="true" />
         <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
       </indentOptions>
       <arrangement>
